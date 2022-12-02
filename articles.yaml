@@ -40,3 +40,19 @@ articles:
     content: "
      Possibilité d acheter un bien immobilier par le biais d une propriété fractionnée et tokenisée. 
     "
+  - title: NFT For Music
+    url: https://www.atlanticusmusic.com/
+    visual: https://www.atlanticusmusic.com/_next/image?url=%2Flogo.svg&w=3840&q=75
+    online: True
+    color: white
+    content: "
+     NFT contiennent un morceau de musique mais aussi des récompenses spéciales créées avec par les artistes.  
+    "
+      - title: NFT For Music
+    url: https://pianity.com/fr
+    visual: https://pianity.com/pianity-white.svg
+    online: True
+    color: white
+    content: "
+     Pianity est une plateforme de NFTs musicaux où les artistes et leurs fans se rencontrent pour créer, collectionner et échanger des œuvres en éditions limitées.  
+    "
