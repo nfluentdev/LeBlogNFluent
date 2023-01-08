@@ -32,6 +32,7 @@ articles:
     content: "
      klmfdk gmkg dflmk glmdfkglmfdk glmfdk glmfdkg lmfdkg lmfdkg lmfdk glmfdkg lmfdkg lmfdkg dfjgkdshf jdsh fjhuier gdfhgu dfhgkjfx vcxjkv jkvbjdgf edsfuezh fuisufhsdiu hf disu
     "
+    
   - title: NFT For Real Estate
     url: https://realt.co/
     visual: https://realt.co/wp-content/uploads/2019/04/RealT_Logo.svg
@@ -40,6 +41,7 @@ articles:
     content: "
      Possibilité d acheter un bien immobilier par le biais d une propriété fractionnée et tokenisée. 
     "
+    
   - title: NFT For Music
     url: https://www.atlanticusmusic.com/
     visual: https://www.atlanticusmusic.com/_next/image?url=%2Flogo.svg&w=3840&q=75
@@ -48,7 +50,8 @@ articles:
     content: "
      NFT contiennent un morceau de musique mais aussi des récompenses spéciales créées avec par les artistes.  
     "
-      - title: NFT For Music
+    
+  - title: NFT For Music
     url: https://pianity.com/fr
     visual: https://pianity.com/pianity-white.svg
     online: True
